@@ -15,7 +15,8 @@ npm run dev
 ```
 npm run test
 ```
-_You can find `Insomnia_api_info` on main directory in order that you can import to `insomnia` which is REST client_
+_You can find `Insomnia_api_info.js` on main directory in order that you can import to `insomnia` which is REST client APP_
+
 *API information*
 ```
 Method: POST
