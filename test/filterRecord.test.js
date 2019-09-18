@@ -6,6 +6,7 @@ const req =  {
   minCount: 2700,
   maxCount: 3000
 }
+jest.setTimeout(30000);
 describe("POST /records", () => {
     test("It responds with filtered records", async () => {
       await axios.post("http://localhost:3100/records", req).then(body => {
