@@ -1,0 +1,6 @@
+{
+  "serverConfig": {
+    "port": 3100,
+    "https": false
+  }
+}

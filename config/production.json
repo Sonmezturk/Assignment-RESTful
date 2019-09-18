@@ -1,0 +1,6 @@
+{
+  "configName": "productionConfig",
+  "serverConfig": {
+    "port": 3100
+  }
+}
