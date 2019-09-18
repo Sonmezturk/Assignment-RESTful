@@ -1,6 +1,6 @@
 **Assignment-RESTful**
 
-*for install all dependecy*
+*for install all dependencies*
 ```
 npm i
 ```
